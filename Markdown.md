@@ -9,12 +9,15 @@
 2. Negrito e Itálico
 
 **Negrito com asteriscos** 
+
 __Negrito com Underlines__
 
-*Itálico com Asterisco* 
+*Itálico com Asterisco*
+
 _Itálico com Underline_
 
-**_Negrito e Itálico com Asteriscos e Underline_** 
+**_Negrito e Itálico com Asteriscos e Underline_**
+
 __*Negrito e Itálico com Underlines e Asterisco*__
 
 3. Listas numeradas (usada para numerar os itens do Markdown)
@@ -27,11 +30,8 @@ __*Negrito e Itálico com Underlines e Asterisco*__
    1. Usa-se três espaços e o número interno da lista
    - Usa-se três espaços e o Asterisco ou traço
 
-6. Tabela
------------------------------------
-| Tabela  em Markdown             |
------------------------------------
-| Usa-se os caracteres            |
----------------|-------------------
-|   "Pipe"     |    traço         |
------------------------------------
+6. Lista de tarefas/marcação
+[] Usa-se os
+[] colchetes
+[x] com ou sem
+[x] um 'x' xis
