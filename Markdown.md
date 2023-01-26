@@ -31,7 +31,7 @@ __*Negrito e Itálico com Underlines e Asterisco*__
    - Usa-se três espaços e o Asterisco ou traço
 
 6. Lista de tarefas/marcação
-- [] Usa-se os
-- [] colchetes
+- [0] Usa-se os
+- [0] colchetes
 - [x] com ou sem
 - [x] um 'x' xis
